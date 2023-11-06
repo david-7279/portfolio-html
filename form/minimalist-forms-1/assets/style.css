@@ -118,11 +118,10 @@ body{
 }
  
 .form-box input[type="submit"] {
-    margin-top: 1rem;
     width: 50%;
     border: none;
     outline: none;
-    height: 4vh;
+    height: 3.7vh;
     color: var(--color-white);
     background: var(--color-dark);
     border-radius: var(--card-border-radius);
